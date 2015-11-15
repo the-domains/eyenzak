@@ -1,0 +1,23 @@
+name: EyenZak
+favicon: null
+layout_spectrum: 0.8263527476228774
+typography_spectrum: 0.290671274298802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.32013608422130346
+  lightness: 0.5098745215218514
+  saturation: 0.34890082268975675
+  rhythmicContrast: 0.572199383052066
+purpose: []
